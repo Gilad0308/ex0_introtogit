@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Ice Cream
+Favorite musician/band: Beatles
+Favorite movie: The Shawshank Redemption
+Requested grade in the course: 100
